@@ -1,0 +1,8 @@
+numpy
+maplotlib
+keras
+nltk
+resring
+json
+pickle
+time
